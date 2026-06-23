@@ -1,4 +1,3 @@
-/* Extracted from blog post style block 1 */
 /* CUSTOM FONTS*/
 
 :root {
@@ -620,8 +619,8 @@ a {
 
 @media screen and (max-width: 1023px) {
   .symbol--555681a9-5399-49db-9030-68827668c242 {
-    padding-top: 60px;
-    padding-bottom: 60px;
+    padding-top: 44px;
+    padding-bottom: 44px;
 
   }
 
@@ -629,8 +628,8 @@ a {
 
 @media screen and (max-width: 767px) {
   .symbol--555681a9-5399-49db-9030-68827668c242 {
-    padding-top: 40px;
-    padding-bottom: 40px;
+    padding-top: 28px;
+    padding-bottom: 28px;
 
   }
 
@@ -661,8 +660,8 @@ a {
 
 /*Section*/
 .symbol--57622f18-c455-4992-a528-cc0703a2e618 {
-  padding-top: 80px;
-  padding-bottom: 80px;
+  padding-top: 56px;
+  padding-bottom: 56px;
   background-size: cover;
   background-image: url(https://cdn.cmsfly.com/634a68331540bb002cc536ba/call-to-action-QverM9.png);
   background-position: center;
@@ -673,8 +672,8 @@ a {
 
 @media screen and (max-width: 1023px) {
   .symbol--57622f18-c455-4992-a528-cc0703a2e618 {
-    padding-top: 60px;
-    padding-bottom: 60px;
+    padding-top: 44px;
+    padding-bottom: 44px;
 
   }
 
@@ -682,8 +681,8 @@ a {
 
 @media screen and (max-width: 767px) {
   .symbol--57622f18-c455-4992-a528-cc0703a2e618 {
-    padding-top: 40px;
-    padding-bottom: 40px;
+    padding-top: 28px;
+    padding-bottom: 28px;
 
   }
 
@@ -888,16 +887,16 @@ a {
 
 /*Section*/
 .symbol--c3dec147-cb76-4c6b-9272-a189363e283d {
-  padding-top: 80px;
-  padding-bottom: 80px;
+  padding-top: 56px;
+  padding-bottom: 56px;
   background-color: var(--color-9);
 
 }
 
 @media screen and (max-width: 1023px) {
   .symbol--c3dec147-cb76-4c6b-9272-a189363e283d {
-    padding-top: 60px;
-    padding-bottom: 60px;
+    padding-top: 44px;
+    padding-bottom: 44px;
 
   }
 
@@ -905,8 +904,8 @@ a {
 
 @media screen and (max-width: 767px) {
   .symbol--c3dec147-cb76-4c6b-9272-a189363e283d {
-    padding-top: 40px;
-    padding-bottom: 40px;
+    padding-top: 28px;
+    padding-bottom: 28px;
 
   }
 
@@ -2098,8 +2097,8 @@ a {
 
 @media screen and (max-width: 1023px) {
   .dorik-section-lluc9k2v {
-    padding-top: 60px;
-    padding-bottom: 60px;
+    padding-top: 44px;
+    padding-bottom: 44px;
 
   }
 
@@ -2107,8 +2106,8 @@ a {
 
 @media screen and (max-width: 767px) {
   .dorik-section-lluc9k2v {
-    padding-top: 40px;
-    padding-bottom: 40px;
+    padding-top: 28px;
+    padding-bottom: 28px;
 
   }
 
@@ -2821,8 +2820,8 @@ a {
 
 /*Section*/
 .symbol--57622f18-c455-4992-a528-cc0703a2e618 {
-  padding-top: 80px;
-  padding-bottom: 80px;
+  padding-top: 56px;
+  padding-bottom: 56px;
   background-size: cover;
   background-image: url(https://cdn.cmsfly.com/634a68331540bb002cc536ba/call-to-action-QverM9.png);
   background-position: center;
@@ -2833,8 +2832,8 @@ a {
 
 @media screen and (max-width: 1023px) {
   .symbol--57622f18-c455-4992-a528-cc0703a2e618 {
-    padding-top: 60px;
-    padding-bottom: 60px;
+    padding-top: 44px;
+    padding-bottom: 44px;
 
   }
 
@@ -2842,8 +2841,8 @@ a {
 
 @media screen and (max-width: 767px) {
   .symbol--57622f18-c455-4992-a528-cc0703a2e618 {
-    padding-top: 40px;
-    padding-bottom: 40px;
+    padding-top: 28px;
+    padding-bottom: 28px;
 
   }
 
@@ -3055,8 +3054,8 @@ a {
 
 @media screen and (max-width: 1023px) {
   .symbol--555681a9-5399-49db-9030-68827668c242 {
-    padding-top: 60px;
-    padding-bottom: 60px;
+    padding-top: 44px;
+    padding-bottom: 44px;
 
   }
 
@@ -3064,8 +3063,8 @@ a {
 
 @media screen and (max-width: 767px) {
   .symbol--555681a9-5399-49db-9030-68827668c242 {
-    padding-top: 40px;
-    padding-bottom: 40px;
+    padding-top: 28px;
+    padding-bottom: 28px;
 
   }
 
@@ -3347,7 +3346,6 @@ div.portal button[type="submit"],
   margin-left: 8px;
 }
 
-/* Extracted from blog post style block 2 */
 /* DORIK BRANDING */
 .dorik-branding-wrapper {
   position: fixed;
@@ -3431,45 +3429,62 @@ div.portal button[type="submit"],
   }
 }
 
-/* Shared English post cleanup */
-.post-shell {
-  display: block;
+
+#related-reading {
+  max-width: 875px;
+  margin: 32px auto 32px;
+  padding: 0 15px;
 }
 
-.post-shell__narrow {
-  width: 100%;
-  max-width: 900px;
-  margin: 0 auto;
-}
-
-.post-header-section {
-  padding-top: 60px !important;
-  padding-bottom: 12px !important;
-}
-
-.post-header-section .post-shell__narrow {
-  text-align: left;
-}
-
-.post-meta {
+#related-reading h2 {
+  font-size: 28px;
+  line-height: 1.25;
   margin: 0 0 14px;
-  color: var(--color-2);
 }
 
-.post-meta time {
-  font-weight: 600;
+#related-reading ul {
+  margin: 0;
+  padding-left: 20px;
+}
+
+#related-reading li {
+  margin-bottom: 10px;
+}
+
+#related-reading a {
   color: var(--color-1);
+  text-decoration: underline;
 }
 
+@media screen and (max-width: 767px) {
+  #related-reading {
+    margin: 24px auto 24px;
+  }
+
+  #related-reading h2 {
+    font-size: 24px;
+  }
+}
+
+/* English post adjustments */
 .post-intro {
-  margin: 20px 0 0;
-  max-width: 780px;
-  line-height: 1.8;
+  margin-top: 20px;
 }
 
-.post-article-section {
-  padding-top: 20px !important;
-  padding-bottom: 20px !important;
+.post-intro p {
+  margin: 0;
+  line-height: 1.75;
+}
+
+.post-hero-media {
+  margin: 0 0 32px;
+}
+
+.post-hero-media img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 24px;
 }
 
 .post-article {
@@ -3492,27 +3507,6 @@ div.portal button[type="submit"],
   margin-bottom: 12px;
 }
 
-.post-article h2 {
-  margin: 48px 0 16px;
-  line-height: 1.25;
-}
-
-.post-article h3 {
-  margin: 28px 0 12px;
-  line-height: 1.35;
-}
-
-.post-hero-media {
-  margin: 0 0 32px;
-}
-
-.post-hero-media img {
-  display: block;
-  width: 100%;
-  height: auto;
-  border-radius: 24px;
-}
-
 .post-callout {
   margin: 32px 0;
   padding: 20px 24px;
@@ -3522,6 +3516,7 @@ div.portal button[type="submit"],
   border-radius: 20px;
 }
 
+#related-reading,
 .post-related-reading {
   margin-top: 56px;
   padding: 28px;
@@ -3530,51 +3525,41 @@ div.portal button[type="submit"],
   border-radius: 24px;
 }
 
+#related-reading h2,
 .post-related-reading h2 {
   margin-top: 0;
 }
 
+#related-reading ul,
 .post-related-reading ul {
   list-style: none;
   margin: 20px 0 0;
   padding: 0;
 }
 
-.post-related-reading li+li {
+#related-reading li + li,
+.post-related-reading li + li {
   margin-top: 18px;
 }
 
+#related-reading a,
 .post-related-reading a {
   color: var(--color-1);
   font-weight: 600;
   text-decoration: none;
 }
 
+#related-reading a:hover,
 .post-related-reading a:hover {
   text-decoration: underline;
 }
 
+#related-reading p,
 .post-related-reading p {
   margin: 6px 0 0;
 }
 
-.dorik-section-k6enzx42 {
-  padding-top: 72px !important;
-}
-
-.dorik-button-slquq42u-wrapper {
-  margin-top: 32px !important;
-}
-
 @media screen and (max-width: 767px) {
-  .post-header-section {
-    padding-top: 44px !important;
-  }
-
-  .post-article-section {
-    padding-top: 12px !important;
-  }
-
   .post-intro {
     margin-top: 16px;
   }
@@ -3583,21 +3568,14 @@ div.portal button[type="submit"],
     margin-bottom: 24px;
   }
 
-  .post-article h2 {
-    margin-top: 38px;
-  }
-
   .post-callout {
     margin: 28px 0;
     padding: 18px 18px 18px 20px;
   }
 
+  #related-reading,
   .post-related-reading {
     margin-top: 40px;
     padding: 20px;
-  }
-
-  .dorik-section-k6enzx42 {
-    padding-top: 56px !important;
   }
 }
